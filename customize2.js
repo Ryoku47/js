@@ -23,7 +23,6 @@ var VUUKLE_CONFIG = {
             toxicityLimit: 80, // 1-99 - you can set how strict is the automoderation. 100 - disables the parameter
             spamLimit: 50, //1-99 - you can set how strict is the spam limit. 100  - disables the parameter
             hideCommentInputBoxWithButton: false, //Hides Comment input field (without "add comment button")
-            sorting: latest / oldest //sorts by latest or oldest comments on initial loading
             customText: {}, // please check this article for custom texts https://docs.vuukle.com/how-to-do-language-customizations-if-using-js-implementation/
         },
         theme: {
