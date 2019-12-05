@@ -29,4 +29,4 @@ var VUUKLE_CONFIG = {
             color: "#10e9ba",
             darkMode: true,
         },
-    },
+    };
